@@ -39,7 +39,7 @@ It teaches the fundamentals of **IP addressing**, **subnetting**, and **routing*
 | Folder / File | Description |
 | --- | --- |
 | `exercises/` | Solutions and configurations with explanations |
-| `images/` | Screenshots and network topology examples |
+| `imag/`      | Screenshots and network topology examples |
 | `README.md` | This very documentation you’re reading |
 
 > ⚠️ This is a visual project — no source code involved.
