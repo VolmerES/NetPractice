@@ -98,7 +98,7 @@ This series helped me grasp subnetting concepts easily and visually:
 
 🌐 More about me at [**volmer.es**](https://volmer.es/)
 
-🔗 [LinkedIn – Juan Bautista Delorme](https://www.linkedin.com/in/juanbautistadelorme/)
+🔗 [LinkedIn – Juan Bautista Delorme](https://www.linkedin.com/in/jdelorme/)
 
 ---
 
